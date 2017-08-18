@@ -1,2 +1,3 @@
 # hello-world
-A placer for ideas
+A place for ideas
+Now i'm making changes
